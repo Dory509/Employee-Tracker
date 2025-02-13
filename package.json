@@ -12,6 +12,7 @@
   "description": "Employee Tracker",
   "dependencies": {
     "express": "^4.17.1",
+    "inquirer": "^8.2.4",
     "jshint": "^2.12.0",
     "pg": "^8.11.3"
   }
