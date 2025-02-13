@@ -99,12 +99,12 @@ After completing an action, the menu reappears, allowing users to continue manag
 
 Features
 
-🔥 Effortless Employee Management – Track employees, roles, and departments with ease
-⚡ Role & Department Assignment – Organize employees within structured departments
-🔄 Real-time Updates – Modify employee roles dynamically
-🛠 PostgreSQL Integration – Secure and efficient database transactions
-💻 Command-Line Friendly – Fast and intuitive CLI interface
-📊 Formatted Data Display – View tables in a structured layout
+Effortless Employee Management-Track employees, roles, and departments with ease
+Role & Department Assignment- Organize employees within structured departments
+ Real-time Updates-Modify employee roles dynamically
+PostgreSQL Integration- Secure and efficient database transactions
+Command-Line Friendly-Fast and intuitive CLI interface
+Formatted Data Display-View tables in a structured layout
 
 Database Schema
 
@@ -133,17 +133,16 @@ manager_id	INTEGER	REFERENCES employee(id) ON DELETE SET NULL
 
 Technologies Used
 
-🟢 Node.js – JavaScript runtime for backend logic
-🔵 Inquirer.js – Interactive command-line user prompts
-🐘 PostgreSQL – Secure and scalable relational database
-📡 pg (node-postgres) – PostgreSQL client for executing queries
-📋 Console.table – Structured display of database records
+Node.js -JavaScript runtime for backend logic
+Inquirer.js -Interactive command-line user prompts PostgreSQL -Secure and scalable relational database
+pg (node-postgres) -PostgreSQL client for executing queries
+Console.table -Structured display of database records
 
 Demo
 
-📽 Walkthrough Video: Click here to watch (Insert your video link here)
+📽Walkthrough Video: Click here to watch 
+( https://app.screencastify.com/v3/watch/4y8Gqyz3l2eF5fazgw94 )
 
- (Add a relevant screenshot if available)
 
 License
 
@@ -151,14 +150,9 @@ This project is licensed under the MIT License. Feel free to modify and use it i
 
 Questions?
 
-📧 Email: your-email@example.com
-🔗 GitHub: your-username
+Email: dorycelestin@outlook.com
+GitHub: Dory509
 
-🚀 For further inquiries, reach out via GitHub or email!
+For further inquiries, reach out via GitHub or email!
 
-Customization Notes:
-	•	Replace “your-username” with your GitHub username.
-	•	Replace “your-email@example.com” with your contact email.
-	•	Add a walkthrough video link if required.
 
-This README.md now provides a strong, detailed guide for users, making it clear, professional, and impactful. Let me know if you need any modifications! 🚀
